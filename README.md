@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapan Patra</h1>
-<h3 align="center">Automation | DevOps QA | Testing </h3>
+<h3 align="center">Automation | DevOps QA | Testing | Leadership | Exploring AI Tools</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/tapan-kumar-patra-4b115824" target="_blank">
@@ -15,7 +15,7 @@
 ### 💼 About Me
 
 - 🚀 I have **15+ years of QA experience** and am passionate about automation, DevOps, and continuous testing.
-- 🧠 I’m currently learning **Playwright with C#**, **NBomber**, and **Python automation**.
+- 🧠 I’m currently learning **Playwright with C#**, **NBomber**, **GitHub Copilot**, **MS365 Copilot** and **Python automation**.
 - 👨‍💻 I regularly work with:  
   `C#`, `Selenium`, `RestSharp`, `SpecFlow`, `NUnit`, `Appium`, `Python`, `GitHub Actions`, `Azure Pipelines`
 - ✍️ I enjoy writing test frameworks, dashboards, and learning notes in Markdown.
