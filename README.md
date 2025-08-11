@@ -46,11 +46,7 @@
 ---
 
 ### 📚 Recent Learning
-
-- ✅ Playwright C# | NBomber | Python for Automation
-- ✅ Git & GitHub with VS Code
-- ✅ Markdown, README & Documentation writing
-
+- ✅ Playwright | NBomber | Python for Automation
 ---
 
 ### 💬 Let's Connect
@@ -71,39 +67,29 @@
 ---
 
 #### 📚 Course Tracker
-| Status | Category        | Course Name                              | Platform     | Author         | Certificate | Completed Date |
-|--------|----------------|------------------------------------------|--------------|----------------|-------------|----------------|
-| ✅     | C#              | C# Fundamentals                          | Udemy        | John Doe       | Yes         | 2024-06-15     |
-| ✅     | C#, Testing     | NUnit Testing with C#                    | Pluralsight  | Jane Smith     | No          | 2024-07-01     |
-| ✅     | C#, Automation  | Selenium WebDriver with C#               | Udemy        | John Doe       | Yes         | 2024-08-05     |
-| 🔵     | C#, Automation  | Playwright for End-to-End Testing with C#| Udemy        | Maria Lopez    | Planned     | Planned        |
-| ✅     | Python, Automation| Python for Automation                  | Coursera     | Alex Johnson   | Yes         | 2024-07-20     |
-| 🔵     | Python          | Python Data Analysis with Pandas         | Udemy        | Sarah Kim      | Planned     | Planned        |
-| ✅     | AI, Testing     | AI in Software Testing                   | edX          | Dr. Alan White | Yes         | 2024-09-05     |
-| ✅     | Leadership      | Leadership Essentials for Tech Managers  | LinkedIn     | Sarah Lee      | Yes         | 2024-09-10     |
-| ✅     | Communication   | Effective Communication for Team Leads   | LinkedIn     | Michael Brown  | No          | 2024-09-15     |
+| Status | Category             | Course Name                                                      | Platform                    | Author         | Completed Date |
+|--------|----------------------|------------------------------------------------------------------|-----------------------------|----------------|----------------|
+| ✅     | C#                  | Ultimate C# Mastery Series                                        | Udemy                      | Mosh Hamedani   | JAN 2022       |
+| ✅     | Selenium, C#        | Intro to Selenium Web Driver with .NET Core                       | Test Automation University  | Nikolay        | SEP 2019       |
+| ✅     | Automation          | Setting a Foundation for Successful Test Automation               | Test Automation University  | Angie Jones    | SEP 2019       |
+| ✅     | Postman             | Exploring Service APIs through Test Automation                    | Test Automation University  | Amber Race     | DEC 2020       |
+
 
 ---
 
 #### 🛤️ Learning Path Tracker
-| Status | Category        | Path Name               | Step Name                  | Resource Type | Platform    | Target Date | Notes            |
-|--------|----------------|-------------------------|----------------------------|---------------|-------------|-------------|------------------|
-| ✅     | Automation, C# | Selenium Mastery         | Selenium WebDriver Basics  | Course        | Udemy       | 2024-08-05  | With C# & NUnit  |
-| ✅     | Automation, C# | Selenium Mastery         | Selenium Advanced Features | Course        | Pluralsight | 2024-08-15  | Parallel testing |
-| 🔵     | Automation, C# | Selenium Mastery         | Selenium Framework Design  | Course        | Udemy       | Planned     | POM & Utilities  |
-| ✅     | AI, Testing    | AI in Testing            | AI in Software Testing     | Course        | edX         | 2024-09-05  | Intro to AI testing |
-| 🔵     | AI, Testing    | AI in Testing            | Generative AI Test Design  | Course        | Coursera    | Planned     | AI-driven test cases |
+| Status | Category        | Path Name                                           | Platform      | Author             |  Completed |
+|--------|-----------------|-----------------------------------------------------|---------------|--------------------|-------------|
+| ✅    | Automation, C#  | Selenium WebDriver Masterclass with C#               | Udemy         | Nikolay Advolodkin |   SEP 2019 |
+
 
 ---
 
 #### 📖 Book Tracker
 | Status | Category     | Book Title                            | Author                | Format | Completed Date | Notes                    |
 |--------|--------------|---------------------------------------|-----------------------|--------|----------------|--------------------------|
-| ✅     | Leadership   | The 7 Habits of Highly Effective People| Stephen R. Covey      | eBook  | 2024-08-25     | Key for productivity     |
-| 🔵     | Leadership   | Leaders Eat Last                      | Simon Sinek           | Print  | Planned        | Leadership culture focus |
-| ✅     | Testing      | Explore It!                           | Elisabeth Hendrickson | eBook  | 2024-06-10     | Exploratory testing tips |
-| 🔵     | Testing      | Lessons Learned in Software Testing   | Cem Kaner              | Print  | Planned        | Testing strategies       |
-| 🔵     | Domain       | Oil & Gas Process Basics              | Mark Taylor           | eBook  | Planned        | Industry fundamentals    |
+| ✅     | Testing      | Explore It!                           | Elisabeth Hendrickson | eBook  | Jun 2010    | Exploratory testing tips |
+
 
 ---
 
