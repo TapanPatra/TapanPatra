@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/tapan-kumar-patra-4b115824" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:tapan.patra@gmail.com" target="_blank">
+  <a href="mailto:tapankpatro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -15,9 +15,9 @@
 ### 💼 About Me
 
 - 🚀 I have **15+ years of QA experience** and am passionate about automation, DevOps, and continuous testing.
-- 🧠 I’m currently learning **Playwright with C#**, **NBomber**, **GitHub Copilot**, **MS365 Copilot** and **Python automation**.
+- 🧠 I’m currently learning **Playwright with C#**, **NBomber**, **GitHub Copilot** and **Python automation**.
 - 👨‍💻 I regularly work with:  
-  `C#`, `Selenium`, `RestSharp`, `SpecFlow`, `NUnit`, `Appium`, `Python`, `GitHub Actions`, `Azure Pipelines`
+  `C#`, `Selenium`, `RestSharp`, `NUnit`, `Python`, `GitHub Actions`.
 - ✍️ I enjoy writing test frameworks, dashboards, and learning notes in Markdown.
 - 🎯 Focused on QA Leadership, Test Strategy, and Technical Execution.
 
@@ -33,13 +33,7 @@
 ---
 
 ### 📘 Current Projects
-
-- 🔧 **RestSharp API Automation** – Testing RESTful APIs using NUnit and RestSharp
 - 🎭 **Playwright C# Framework** – Building an E2E automation framework with reporting
-- 📊 **NBomber Load Tests** – API performance testing with metrics dashboard
-- 🐍 **Python Automation Notes** – Scripts for task automation and QA utilities
-- 📦 **C# Design Patterns** – 23 GoF patterns with UML and real-world use cases
-
 ---
 
 ### 📈 GitHub Stats
@@ -61,14 +55,14 @@
 
 ### 💬 Let's Connect
 
-📫 **Email:** tapan.patra@gmail.com  
+📫 **Email:** tapankpatro@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/tapan-kumar-patra](https://www.linkedin.com/in/tapan-kumar-patra-4b115824/)
 
 ---
-# 📄 Master Learning & Projects Tracker  
+### 📄 Master Learning & Projects Tracker  
 *Inspired by “Adventures in Automation” – T.J. Maher*  
 
-## 📑 Table of Contents  
+#### 📑 Table of Contents  
 - [📚 Course Tracker](#-course-tracker)  
 - [🛤️ Learning Path Tracker](#%EF%B8%8F-learning-path-tracker)  
 - [📖 Book Tracker](#-book-tracker)  
@@ -76,7 +70,7 @@
 
 ---
 
-## 📚 Course Tracker
+#### 📚 Course Tracker
 | Status | Category        | Course Name                              | Platform     | Author         | Certificate | Completed Date |
 |--------|----------------|------------------------------------------|--------------|----------------|-------------|----------------|
 | ✅     | C#              | C# Fundamentals                          | Udemy        | John Doe       | Yes         | 2024-06-15     |
@@ -91,7 +85,7 @@
 
 ---
 
-## 🛤️ Learning Path Tracker
+#### 🛤️ Learning Path Tracker
 | Status | Category        | Path Name               | Step Name                  | Resource Type | Platform    | Target Date | Notes            |
 |--------|----------------|-------------------------|----------------------------|---------------|-------------|-------------|------------------|
 | ✅     | Automation, C# | Selenium Mastery         | Selenium WebDriver Basics  | Course        | Udemy       | 2024-08-05  | With C# & NUnit  |
@@ -102,7 +96,7 @@
 
 ---
 
-## 📖 Book Tracker
+#### 📖 Book Tracker
 | Status | Category     | Book Title                            | Author                | Format | Completed Date | Notes                    |
 |--------|--------------|---------------------------------------|-----------------------|--------|----------------|--------------------------|
 | ✅     | Leadership   | The 7 Habits of Highly Effective People| Stephen R. Covey      | eBook  | 2024-08-25     | Key for productivity     |
@@ -113,16 +107,13 @@
 
 ---
 
-## 🛠️ Project Tracker  
-
-### 📝 To-Do
+#### 🛠️ Project Tracker  
 | Status | Category         | Project Name                          | Type        | Tools/Tech          | Target Date | Notes                        |
 |--------|-----------------|---------------------------------------|-------------|---------------------|-------------|------------------------------|
 | 🔵     | Automation, C#  | API Test Automation Framework         | Testing     | RestSharp, NUnit    | Planned     | For regression suite         |
 | 🔵     | AI, Testing     | AI-Powered Test Case Generator        | AI Tooling  | Python, OpenAI API  | Planned     | Experiment with GenAI in QA  |
 | 🔵     | Domain, Python  | Oil & Gas Data ETL Pipeline           | Data Eng.   | Python, Pandas      | Planned     | Transform & clean sensor data|
 
-### ✅ Completed
 | Status | Category         | Project Name                          | Type        | Tools/Tech          | Completed Date | Notes                      |
 |--------|-----------------|---------------------------------------|-------------|---------------------|----------------|----------------------------|
 | ✅     | Testing, C#     | Selenium UI Regression Suite          | Automation  | Selenium, NUnit     | 2024-07-28     | Covers 80% of regression   |
@@ -130,13 +121,13 @@
 
 ---
 
-# Test Automation Engineer / SDET Roadmap Progress Tracker
+### Test Automation Engineer / SDET Roadmap Progress Tracker
 
 ✅ = Done 🔜 = In Progress 🎯 = Target (linked to learning resources)
 
 ---
 
-## **Beginner Milestones – Getting Started**
+#### **Beginner Milestones – Getting Started**
 - ✅ Open the computer’s terminal and run a test command  
 - ✅ Install and configure an IDE or code editor for testing (e.g., [Visual Studio Code](https://code.visualstudio.com/), [IntelliJ](https://www.jetbrains.com/idea/), [Rider](https://www.jetbrains.com/rider/))  
 - ✅ Learn essential keyboard shortcuts in your IDE ([VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf))  
@@ -149,7 +140,7 @@
 
 ---
 
-## **Intermediate Milestones – Building Real-World Skills**
+#### **Intermediate Milestones – Building Real-World Skills**
 - 🎯 [Implement advanced assertions](https://docs.nunit.org/articles/nunit/writing-tests/assertions/constraint-model.html) (regex, greater than, contains, collection checks)  
 - ✅ [Automate API tests using RestSharp](https://restsharp.dev/), [HttpClient](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient), or [Postman](https://learning.postman.com/) scripts  
 - 🎯 [Secure sensitive test data](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/variables) and API keys in configs or environment variables  
@@ -165,7 +156,7 @@
 
 ---
 
-## **Advanced Milestones – Becoming an SDET**
+#### **Advanced Milestones – Becoming an SDET**
 - 🎯 [Create a custom automation framework from scratch](https://www.swtestacademy.com/selenium-framework-design-in-csharp/)  
 - ✅ [Integrate tests into a CI/CD pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/get-started/) (GitHub Actions, Jenkins, Azure Pipelines)  
 - 🎯 [Add advanced reporting](https://github.com/extent-framework/extentreports-csharp) (ExtentReports, Allure, custom dashboards)  
@@ -180,7 +171,7 @@
 
 ---
 
-## **Expert Milestones – Industry Leader Level**
+#### **Expert Milestones – Industry Leader Level**
 - 🎯 [AI/ML-based testing tools](https://testim.io/blog/ai-in-test-automation/) in a project  
 - 🎯 [Multi-layer automation framework](https://www.lambdatest.com/learning-hub/automation-framework) (UI, API, DB, Performance)  
 - 🎯 [Mentor junior testers](https://www.ministryoftesting.com/dojo/lessons/how-to-coach-and-mentor-software-testers) in automation best practices  
