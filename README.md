@@ -101,7 +101,7 @@
 
 ---
 
-### Test Automation Engineer / SDET Roadmap Progress Tracker
+### Test Automation Engineer Roadmap Progress Tracker
 
 ✅ = Done 🎯 = Target (linked to learning resources)
 
@@ -157,8 +157,8 @@
 - ✅ [Mentor junior testers](https://www.ministryoftesting.com/dojo/lessons/how-to-coach-and-mentor-software-testers) in automation best practices  
 - 🎯 [Performance testing with NBomber](https://nbomber.com/), [JMeter](https://jmeter.apache.org/), or [k6](https://k6.io/docs/)  
 - 🎯 [Integrate security checks](https://owasp.org/www-project-zap/) into your automation suite  
-- 🎯 [Write and publish automation articles](https://dev.to/)  
-- 🎯 [Speak at testing conferences](https://confengine.com/conferences) or meetups  
+- 🎯 Write and publish automation articles
+- 🎯 Speak at testing conferences or meetups  
 - 🎯 Get paid to design automation strategies (consulting, contracting, leadership)  
-- 🎯 [Achieve a testing certification](https://www.istqb.org/certifications.html) (ISTQB Advanced, Selenium, Playwright)  
+- 🎯 Achieve a testing certification(Playwright)  
 - ✅ Lead an automation transformation project in your organization  
