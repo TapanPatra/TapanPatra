@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapan Patra</h1>
-<h3 align="center">Automation | DevOps QA | Testing | Leadership | Exploring AI </h3>
+<h3 align="center">Automation | DevOps QA | Testing | Leadership | Exploring AI in Testing </h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/tapan-kumar-patra-4b115824" target="_blank">
@@ -15,9 +15,9 @@
 ### 💼 About Me
 
 - 🚀 I have **15+ years of QA experience** and am passionate about automation, DevOps, and continuous testing.
-- 🧠 I’m currently learning **Playwright with C#**, **NBomber**, **GitHub Copilot** and **Python automation**.
+- 🧠 I’m currently learning **Playwright** **NBomber**, **GitHub Copilot** and **Python**.
 - 👨‍💻 I regularly work with:  
-  `C#`, `Selenium`, `RestSharp`, `NUnit`, `Python`, `GitHub Actions`.
+  `C#`, `Selenium`, `RestSharp`, `NUnit`.
 - ✍️ I enjoy writing test frameworks, dashboards, and learning notes in Markdown.
 - 🎯 Focused on QA Leadership, Test Strategy, and Technical Execution.
 
@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C#, Python, JavaScript
+- **Languages:** C#, Python, JavaScript, Java
 - **Testing:** Selenium, RestSharp, Appium, Playwright, NBomber, Postman, NUnit, SpecFlow
 - **DevOps:** Azure DevOps, GitHub Actions, Docker (basics), CI/CD
 - **Tools:** Visual Studio, VS Code, JMeter, SQL Server
@@ -44,11 +44,6 @@
 </p>
 
 ---
-
-### 📚 Recent Learning
-- ✅ Playwright | NBomber | Python for Automation
----
-
 ### 💬 Let's Connect
 
 📫 **Email:** tapankpatro@gmail.com  
