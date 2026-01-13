@@ -14,11 +14,8 @@
 
 ### 💼 About Me
 
-- 🚀 I have **15+ years of QA experience** and am passionate about testing, automation, DevOps, AI and leadership.
-- 🧠 I’m currently learning **Playwright**, **GitHub Copilot** and **Python**.
-- 👨‍💻 I regularly work with:  
-  `Python`, `C#`, `Selenium`, `RestSharp`, `NUnit`.
-- ✍️ I enjoy reading about testing, writing test frameworks, dashboards, and learning notes in Markdown.
+- 🚀 I have **15+ years of QA experience** and am passionate about testing, automation and leadership.
+- ✍️ I enjoy reading about testing, writing test frameworks and making learning notes in Markdown.
 - 🎯 Focused on QA Leadership, Test Strategy, and Technical Execution.
 
 ---
@@ -33,7 +30,7 @@
 ---
 
 ### 📘 Current Projects
-- 🎭 **Playwright C# Framework** – Building an E2E automation framework with reporting
+- 🎭 **Automation AI Playground** – It is designed as a long-term personal automation lab for web scraping, Excel automation, REST API calls, log parsing, file searching, email sending, reminders, and system tasks.
 ---
 
 ### 📈 GitHub Stats
