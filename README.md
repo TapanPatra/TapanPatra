@@ -30,7 +30,7 @@
 ---
 
 ### 📘 Current Projects
-- 🎭 **Automation AI Playground** – It is designed as a long-term personal automation lab for web scraping, Excel automation, REST API calls, log parsing, file searching, email sending, reminders, and system tasks.
+- **Automation AI Playground** – It is designed as a long-term personal automation lab for web scraping, Excel automation, REST API calls, log parsing, file searching, email sending, reminders, and system tasks.
 ---
 
 ### 📈 GitHub Stats
